@@ -23,6 +23,8 @@ npm install
 ### 2. Create .env
 
 Create .env file in the project root and provide the required API keys:
+- https://developers.google.com/speed/docs/insights/v5/get-started
+- https://platform.openai.com/api-keys
 
 ```
 PAGESPEED_API_KEY=
