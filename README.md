@@ -9,7 +9,7 @@ It uses OpenAI APIs to generate clear recommendations for further `Performance` 
 
 - ✅ Validate if the current item is published to Edge.
 - 🔗 Provide the published URL of the context page.
-- 📊 Analyze Google PageSpeed Insights metrics for `Performance` and `SEO` in both **Desktop** and **Mobile**.
+- 📊 Analyze Google PageSpeed Insights metrics for `Performance` and `SEO` on both **Desktop** and **Mobile**, with insights enhanced by OpenAI GPT-5. The analysis is structured into three sections: Summary, Performance, and SEO.
 - 🌐 Generate a direct link to the Google PageSpeed Insights online report for deeper analysis.
 
 ## 🚀Setup Instructions
